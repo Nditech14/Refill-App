@@ -1,0 +1,1060 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\userclaimsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\userclaimsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\controllers\\purchaserequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\controllers\\purchaserequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\abstraction\\iuserdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\abstraction\\iuserdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\entities\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\entities\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\purchaserequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\purchaserequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\userdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\userdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\servicebusproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\servicebusproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\emailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\extensions\\generalextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\extensions\\generalextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\abstraction\\iemailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\abstraction\\iemailtemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\abstraction\\ipurchaserequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\abstraction\\ipurchaserequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\updatepurchaseditemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\updatepurchaseditemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\purchaserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\purchaserequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\implementation\\cosmosdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\implementation\\cosmosdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\infrastructure\\adls\\implementation\\azuredatalakefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\adls\\implementation\\azuredatalakefilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\entities\\purchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\entities\\purchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\entities\\itemrequestfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\entities\\itemrequestfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\entities\\requestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\entities\\requestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\requestitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\requestitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\responsedto\\purchaserequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\responsedto\\purchaserequestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\requestitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\requestitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\enum\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\enum\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\itemrequestfordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\itemrequestfordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\inventorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\inventorydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\verificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\abstraction\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\abstraction\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\abstraction\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\abstraction\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\dtos\\fileentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\dtos\\fileentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\responsedto\\requestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\responsedto\\requestresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\infrastructure\\cosmosfig\\cosmosdbclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\cosmosfig\\cosmosdbclientfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\infrastructure\\cosmosfig\\cosmosdbcontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\cosmosfig\\cosmosdbcontainers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\infrastructure\\cosmosfig\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\cosmosfig\\cosmosdbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\notificationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\notificationworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\messaging\\usernotificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\messaging\\usernotificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\messaging\\adminnotificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\messaging\\adminnotificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\abstraction\\iservicebusproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\abstraction\\iservicebusproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\extensions\\adlsextension\\datalakestorageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\extensions\\adlsextension\\datalakestorageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147ACB53-DFE1-41A3-B4CF-0908D036355B}|TestProject\\TestProject.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147ACB53-DFE1-41A3-B4CF-0908D036355B}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\core\\abstraction\\icosmosdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912F6FB4-3F25-49C8-A6EC-440445767F37}|Core\\Core.csproj|solutionrelative:core\\abstraction\\icosmosdbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\re-fill-web_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\re-fill-web_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\re-fill-web_api\\seeding\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEFF21F-1CC6-4068-BCA8-51D52EA55839}|Re-Fill-Web_API\\Re-Fill-Web_API.csproj|solutionrelative:re-fill-web_api\\seeding\\adminseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\infrastructure\\adls\\configuration\\storagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\adls\\configuration\\storagesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\application\\services\\abstraction\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C78930-25AF-4BFF-B57C-9D301F5C7B72}|Application\\Application.csproj|solutionrelative:application\\services\\abstraction\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|c:\\users\\decagon l\\onedrive\\desktop\\new folder\\re-fill\\infrastructure\\adls\\abstraction\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{514C7ED5-45FA-4437-86BC-E08E78DD2CCE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\adls\\abstraction\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1608089412:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Dockerfile",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Dockerfile",
+              "RelativeToolTip": "Re-Fill-Web_API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-17T08:46:02.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Controllers\\InventoryController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAmwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:34:55.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserClaimsMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\UserClaimsMiddleWare.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\UserClaimsMiddleWare.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\UserClaimsMiddleWare.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\UserClaimsMiddleWare.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:16:33.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\UserDetails.cs",
+              "RelativeToolTip": "Core\\Entities\\UserDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:52:54.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PurchaseRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\PurchaseRequestService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\PurchaseRequestService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\PurchaseRequestService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\PurchaseRequestService.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAAAE8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:29:03.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\PurchaseRequestController.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Controllers\\PurchaseRequestController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\PurchaseRequestController.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Controllers\\PurchaseRequestController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAkwJIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:09:45.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Controllers\\RequestController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:56:40.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\UserDetailController.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Controllers\\UserDetailController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Controllers\\UserDetailController.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Controllers\\UserDetailController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:03:43.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IUserDetailService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstraction\\IUserDetailService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IUserDetailService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstraction\\IUserDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:08:25.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneralExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Extensions\\GeneralExtension.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Extensions\\GeneralExtension.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Extensions\\GeneralExtension.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Extensions\\GeneralExtension.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:58:11.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\ItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\ItemDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\ItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:06:29.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\UserDetailService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\UserDetailService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\UserDetailService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\UserDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:38:23.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceBusProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\ServiceBusProducer.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\ServiceBusProducer.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\ServiceBusProducer.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\ServiceBusProducer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:23:41.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Core\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\ApiResponse.cs",
+              "RelativeToolTip": "Core\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:36:38.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\EmailTemplateService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\EmailTemplateService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\EmailTemplateService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\EmailTemplateService.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAuwMIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:01:06.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmailTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IEmailTemplateService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstraction\\IEmailTemplateService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IEmailTemplateService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstraction\\IEmailTemplateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:00:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPurchaseRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IPurchaseRequestService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstraction\\IPurchaseRequestService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IPurchaseRequestService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstraction\\IPurchaseRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:19:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdatePurchasedItemsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\UpdatePurchasedItemsDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\UpdatePurchasedItemsDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\UpdatePurchasedItemsDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\UpdatePurchasedItemsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:24:38.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PurchaseRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\PurchaseRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\PurchaseRequestDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\PurchaseRequestDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\PurchaseRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:07:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CosmosDbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Implementation\\CosmosDbRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Implementation\\CosmosDbRepository.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Implementation\\CosmosDbRepository.cs",
+              "RelativeToolTip": "Core\\Implementation\\CosmosDbRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwFAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:56:01.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\CosmosDbService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\CosmosDbService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\CosmosDbService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\CosmosDbService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:32:13.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\FileService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\FileService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\FileService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\FileService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:28:00.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AzureDataLakeFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\ADLS\\Implementation\\AzureDataLakeFileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ADLS\\Implementation\\AzureDataLakeFileRepository.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\ADLS\\Implementation\\AzureDataLakeFileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ADLS\\Implementation\\AzureDataLakeFileRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:01:53.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PurchaseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\PurchaseRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\PurchaseRequest.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\PurchaseRequest.cs",
+              "RelativeToolTip": "Core\\Entities\\PurchaseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:49:04.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\Inventory.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\Inventory.cs",
+              "RelativeToolTip": "Core\\Entities\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:56:30.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\InventoryDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\InventoryDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\InventoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:05:23.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RequestItem.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\RequestItem.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\RequestItem.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\RequestItem.cs",
+              "RelativeToolTip": "Core\\Entities\\RequestItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:55:30.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItemRequestFor.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\ItemRequestFor.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ItemRequestFor.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\ItemRequestFor.cs",
+              "RelativeToolTip": "Core\\Entities\\ItemRequestFor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:37:50.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\Item.cs",
+              "RelativeToolTip": "Core\\Entities\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:47:33.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\FileEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\FileEntity.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Entities\\FileEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\FileEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:03:45.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RequestItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\RequestItemDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\RequestItemDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\RequestItemDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\RequestItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:44:49.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PurchaseRequestResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\ResponseDto\\PurchaseRequestResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\PurchaseRequestResponseDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\ResponseDto\\PurchaseRequestResponseDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\PurchaseRequestResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:15:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\InventoryService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\InventoryService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:29:53.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RequestItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\RequestItemService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\RequestItemService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\RequestItemService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\RequestItemService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:17:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Enum\\RequestStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Enum\\RequestStatus.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Enum\\RequestStatus.cs",
+              "RelativeToolTip": "Core\\Enum\\RequestStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:50:22.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:30:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\UserDetailsDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\UserDetailsDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\UserDetailsDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\UserDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:10:25.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ItemRequestForDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\ItemRequestForDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\ItemRequestForDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\ItemRequestForDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\ItemRequestForDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:48:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InventoryDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\InventoryDtos.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\InventoryDtos.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\InventoryDtos.cs",
+              "RelativeToolTip": "Application\\Dtos\\InventoryDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:46:32.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "VerificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\VerificationDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\VerificationDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\VerificationDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\VerificationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:11:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICosmosDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\ICosmosDbService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstraction\\ICosmosDbService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\ICosmosDbService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstraction\\ICosmosDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:59:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\appsettings.json",
+              "RelativeToolTip": "Re-Fill-Web_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T14:40:35.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstraction\\IInventoryService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IInventoryService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstraction\\IInventoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:50:10.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FileEntityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\FileEntityDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\FileEntityDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Dtos\\FileEntityDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\FileEntityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:23:18.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RequestResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\ResponseDto\\RequestResponseDto.cs",
+              "RelativeDocumentMoniker": "Application\\ResponseDto\\RequestResponseDto.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\ResponseDto\\RequestResponseDto.cs",
+              "RelativeToolTip": "Application\\ResponseDto\\RequestResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:28:31.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CosmosDbClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\CosmosFig\\CosmosDbClientFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CosmosFig\\CosmosDbClientFactory.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\CosmosFig\\CosmosDbClientFactory.cs",
+              "RelativeToolTip": "Infrastructure\\CosmosFig\\CosmosDbClientFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:31:34.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CosmosDbContainers.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "RelativeToolTip": "Infrastructure\\CosmosFig\\CosmosDbContainers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:48:26.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CosmosDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "RelativeToolTip": "Infrastructure\\CosmosFig\\CosmosDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:51:43.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NotificationWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\NotificationWorker.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\NotificationWorker.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\NotificationWorker.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\NotificationWorker.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAADwv54AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:45:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserNotificationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Messaging\\UserNotificationMessage.cs",
+              "RelativeDocumentMoniker": "Application\\Messaging\\UserNotificationMessage.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Messaging\\UserNotificationMessage.cs",
+              "RelativeToolTip": "Application\\Messaging\\UserNotificationMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:21:51.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminNotificationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Messaging\\AdminNotificationMessage.cs",
+              "RelativeDocumentMoniker": "Application\\Messaging\\AdminNotificationMessage.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Messaging\\AdminNotificationMessage.cs",
+              "RelativeToolTip": "Application\\Messaging\\AdminNotificationMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:21:09.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Program.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Program.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:16:37.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IServiceBusProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IServiceBusProducer.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstraction\\IServiceBusProducer.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IServiceBusProducer.cs",
+              "RelativeToolTip": "Application\\Services\\Abstraction\\IServiceBusProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:23:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\EmailService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementation\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Implementation\\EmailService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementation\\EmailService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:46:50.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DataLakeStorageExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Extensions\\ADLSExtension\\DataLakeStorageExtension.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Extensions\\ADLSExtension\\DataLakeStorageExtension.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Extensions\\ADLSExtension\\DataLakeStorageExtension.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Extensions\\ADLSExtension\\DataLakeStorageExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:16:41.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:24:46.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICosmosDbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Abstraction\\ICosmosDbRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Abstraction\\ICosmosDbRepository.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Core\\Abstraction\\ICosmosDbRepository.cs",
+              "RelativeToolTip": "Core\\Abstraction\\ICosmosDbRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAADFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:43:57.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Re-Fill-Web_API.http",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Re-Fill-Web_API.http",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Re-Fill-Web_API.http",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Re-Fill-Web_API.http",
+              "RelativeToolTip": "Re-Fill-Web_API\\Re-Fill-Web_API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-11T13:01:52.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AdminSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Seeding\\AdminSeeder.cs",
+              "RelativeDocumentMoniker": "Re-Fill-Web_API\\Seeding\\AdminSeeder.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Re-Fill-Web_API\\Seeding\\AdminSeeder.cs",
+              "RelativeToolTip": "Re-Fill-Web_API\\Seeding\\AdminSeeder.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:51:26.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "StorageSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "RelativeToolTip": "Infrastructure\\ADLS\\configuration\\StorageSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:10:05.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IFileService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Abstraction\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Application\\Services\\Abstraction\\IFileService.cs",
+              "RelativeToolTip": "Application\\Services\\Abstraction\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:41:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\ADLS\\Abstraction\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ADLS\\Abstraction\\IFileRepository.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\New folder\\Re-Fill\\Infrastructure\\ADLS\\Abstraction\\IFileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ADLS\\Abstraction\\IFileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:11:58.317Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:499875062:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
